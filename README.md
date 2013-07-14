@@ -1,0 +1,4 @@
+prestashop-featuredslider
+=========================
+
+Prestashop FeaturedSlider
